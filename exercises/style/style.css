@@ -1,0 +1,10 @@
+body{
+	color:blue;
+}
+
+body{
+	.outer-container {
+  display: flex;
+  align-items: center;
+}
+}
