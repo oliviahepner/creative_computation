@@ -1,0 +1,51 @@
+#face{
+	width:500px;
+height:500px;
+border-radius:50%;
+background-color: pink;
+
+}
+.eye{
+	display:inline-block;
+	margin-left: 90px;
+	margin-top:90px;
+	width:100px;
+height:100px;
+border-radius:50%;
+background-color: white;
+}
+.pupil{
+	display:inline-block;
+	margin-left:20px;
+	margin-top:20px;
+	width:50px;
+height:50px;
+border-radius:50%;
+background-color: black;
+}
+
+ #nose{
+ 	
+ 	margin-top:20px;
+ 	margin-left:180px;
+      width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid black;
+    }
+#mouth{
+	display:inline-block;
+	margin-left:200px;
+	margin-top:40px;
+	width:100px;
+	height:100px;
+	border-radius:50%;
+background-color: red;
+}
+#face:hover{
+	background-color: orange;
+}
+.pupil:hover{
+	background-color:green;
+}

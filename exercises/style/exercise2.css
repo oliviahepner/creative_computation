@@ -32,5 +32,13 @@
 	background-color:red;
 }
 #box_1{
-	
+	margin: 0px auto;
+}
+
+#box_2{
+
+}
+#box_3:hover{
+ background-color:green;
+  
 }
