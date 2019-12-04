@@ -1,5 +1,5 @@
  body {
-  background-image: url('dorm.jpg');
+  background-image: url('room.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -10,6 +10,7 @@ a{
 }
 .startover{
 	color:white;
+  text-decoration: none;
      position: fixed;
      bottom: 0;
      right: 0;

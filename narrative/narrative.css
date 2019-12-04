@@ -5,6 +5,10 @@
   background-size: 100% 100%;
 }
 
+a{
+  color:white;
+  text-decoration: none;
+}
 .startover{
 	color:white;
      position: fixed;
