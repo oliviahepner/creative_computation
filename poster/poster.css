@@ -1,0 +1,66 @@
+body{
+	background-color:black;
+	font-family: 'Arial', serif;
+      animation: colorchange 20s;
+      -webkit-animation: colorchange 20s; 
+    }
+
+
+
+    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    {
+      0%   {background: black;}
+      25%  {background: blue;}
+      50%  {background:purple;}
+      75%  {background: green;}
+      100% {background: red;}
+    }
+}
+.title{  
+color:rgb(191, 45, 22);
+margin:auto;
+padding-left:700px;
+position:absolute;
+padding-top:1000px;}
+
+.kun{
+color:rgb(191, 45, 22);
+margin:auto;
+text-align:;
+padding-top:60px;
+padding-left:700px;
+}
+
+.de{
+	color: rgb(170, 173, 146);
+	font-size:500px;
+	font-weight: bold;
+	padding-top: 50px;
+	top:400px;
+	position:absolute;
+
+
+}
+
+.film{
+	color: rgb(229, 224, 204);
+	font-size: 500px;
+	padding-left:500px;
+	font-weight:bold;
+	top:400px;
+	padding-top:450px;
+
+}
+
+.defilm{
+	line-height:0px;
+	position: absolute;
+}
+
+
+.Jan{
+color:rgb(191, 45, 22);
+margin:auto;
+padding-left:700px;
+position:absolute;
+padding-top:1000px;
