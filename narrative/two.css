@@ -1,0 +1,44 @@
+ body {
+  background-image: url('two.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+.startover{
+	color:white;
+  text-decoration: none;
+     position: fixed;
+     bottom: 0;
+     right: 0;
+     text-decoration: none;
+ color: rgba(255, 255, 255, 0.8);
+ font-weight: normal;
+ transition: all 0.4s ease-in-out;
+ padding-right:20px;
+ font-size: 10px;
+}
+.startover:hover{
+	color: red;
+ box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}
+.line:hover{
+  color:red;
+}
+
+.line{
+color:white;
+text-align: center;
+ position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+font-size: 20px;
+font-weight: bold;
+   text-shadow:3px 3px 12px black, 3px 3px 12px black;
+
+}

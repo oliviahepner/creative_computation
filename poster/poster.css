@@ -38,6 +38,7 @@ padding-left:700px;
 	padding-top: 50px;
 	top:400px;
 	position:absolute;
+	z-index: -1;
 
 
 }
